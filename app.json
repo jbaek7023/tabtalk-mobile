@@ -1,0 +1,12 @@
+{
+  "name": "tabtalk-mobile",
+  "displayName": "tabtalk-mobile",
+  "expo": {
+    "name": "tabtalk-mobile",
+    "slug": "tabtalk-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
